@@ -1,0 +1,29 @@
+# IBM CodeKnack Question
+# Q.) Print the elements above the 'alphabet' passed and to the left of the 'alpha' in an array.
+
+rows = [['b','a','b','c'],
+        ['z','x','c','v'],
+        ['n','d','e','f',],
+        ['m','g','h','i']]
+alpha = "e"
+str1 = ""
+str2 = ""
+arr = []
+
+for i in range(len(rows)):
+    for j in range(len(rows[i])):
+        if rows[i][j] == alpha:
+            row = i
+            col = j
+for k in range(len(rows[row])):
+    if rows[row][k] == alpha:
+        break
+    str1 += rows[row][k]
+# print(str1)
+for l in range(len(rows)):
+    if rows[l][col] == alpha:
+        break
+    str2 += rows[l][col]
+arr.append(str1)
+arr.append(str2)
+print(arr)
