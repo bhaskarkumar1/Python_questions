@@ -1,0 +1,37 @@
+Set:
+
+1) Priyanka and Toys
+2) String Construction
+3) Two Strings
+
+Dict:
+4) ACM ICPC Team
+
+Strings:
+5) Time Conversion
+6) Counting Valleys
+7) Super Reduced String
+8) Funny String
+9) Repeated String
+10) Designer PDF Viewer
+11) Strong Password
+12) HackerRank in a String!
+13) Pangrams
+14) Weighted Uniform Strings
+15) Separate the Numbers
+16) The Love-Letter Mystery
+17) Anagram
+18) Making Anagrams
+19) Big Sorting
+20) Gemstones
+21) Mars Exploration
+22) Balanced Brackets
+23) Caesar Cipher
+24) Cavity Map
+25) Beautiful Binary String
+26) Flipping bits (zfill)
+27) XOR Strings
+28) Game of Thrones – I
+29) Alternating Characters
+30) Happy Ladybugs
+31) Sherlock and Anagrams

@@ -1,0 +1,42 @@
+1)	Compare the Triplets
+2)	 Drawing Book
+3)	 Sherlock and Squares
+4)	Handshake
+5)	 Cats and a Mouse
+6)	Staircase
+7)	 Number Line Jumps
+8)	 Grading Students
+9)	Angry Professor
+10)	 Sherlock and Squares
+11)	 Chocolate Feast
+12)	Find Digits
+13)	 Utopian Tree
+14)	Beautiful Days at the Movies
+15)	 Recursive Digit Sum
+       LISTS
+1) Breaking the Records
+2) Birthday Cake Candles
+3) Mini-Max Sum
+4) The Hurdle Race
+5) Plus Minus
+6) Migratory Birds
+7) Divisible Sum Pairs
+8) Subarray Division
+9) Sales by Match
+10) Diagonal Difference
+11) Circular Array Rotation
+12) Jumping on the Clouds
+13) Picking Numbers
+14) Cut the sticks
+15) Lonely Integer
+16) Manasa and Stones
+17) Permuting Two Arrays
+18) Jim and the Orders
+19) Mark and Toys
+20) Marc's Cakewalk
+21) Minimum Distances
+22) Halloween Sale
+23) Service Lane
+24) Luck Balance
+25) Equalize the Array
+26) Jumping on the Clouds: Revisited
